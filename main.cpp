@@ -9,8 +9,7 @@ float ile_cali(float m)
     return m*39.37;
 }
 
-float ile_jardow(float x)
-
+float ile_jardow(float x);
 
 int main()
 {
@@ -18,6 +17,7 @@ int main()
     cin>>metry;
 
     cout<<"na cale: "<<ile_cali(metry)<<endl;
+    cout<<"na jardy: "<<ile_jardow(metry)<<endl;
 
 
     return 0;
