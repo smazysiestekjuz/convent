@@ -6,6 +6,7 @@ float metry;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Podaj ile metrow: ";
+
     return 0;
 }
