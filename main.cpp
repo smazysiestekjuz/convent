@@ -4,6 +4,10 @@ using namespace std;
 
 float metry;
 
+float ile_cali(float m)
+
+
+
 int main()
 {
     cout << "Podaj ile metrow: ";
