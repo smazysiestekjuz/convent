@@ -6,8 +6,10 @@ float metry;
 
 float ile_cali(float m)
 {
-  return m*39.37;
+    return m*39.37;
 }
+
+float ile_jardow(float x)
 
 
 int main()
