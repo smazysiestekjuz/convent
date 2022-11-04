@@ -7,6 +7,6 @@ float metry;
 int main()
 {
     cout << "Podaj ile metrow: ";
-
+    cin>>metry;
     return 0;
 }
