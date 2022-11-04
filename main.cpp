@@ -14,5 +14,9 @@ int main()
 {
     cout << "Podaj ile metrow: ";
     cin>>metry;
+
+    cout<<"na cale: "<<ile_cali(metry)<<endl;
+
+
     return 0;
 }
